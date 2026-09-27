@@ -1,6 +1,9 @@
+# PROJECT MOVED OUT OF GITHUB
+# PLEASE GO CHECK MY PERSONAL BLOG AT www.lbon.dev
+
 # Git and GitHub
 
-Author: **LBO** (contact at git-course@lbon.org) 🥖
+Author: **LBO** (contact at git AT lbon.dev) 🥖
 
 Complementary links:
 
